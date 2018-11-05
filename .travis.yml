@@ -6,3 +6,9 @@ python:
 install: pip install -e .
 
 script: pytest
+
+
+deploy:
+  provider: heroku
+  api_key:
+    secure: 19d7247a-8eb5-4b49-8cfd-d20ad0b1c599
