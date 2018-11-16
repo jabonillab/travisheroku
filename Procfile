@@ -1,1 +1,1 @@
-web: gunicorn app:flaskr
+web: gunicorn --chdir clikpik microservicio:app
