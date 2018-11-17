@@ -7,6 +7,7 @@ setup(
     install_requires=[
         'flask',
         'Flask-Testing',
-        'Flask-SQLAlchemy'
+        'Flask-SQLAlchemy',
+        'psycopg2'
     ],
 )
