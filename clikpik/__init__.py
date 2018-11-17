@@ -1,1 +1,1 @@
-from .microservicio  import app
+from .microservicio  import app, db, Producto

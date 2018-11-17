@@ -1,0 +1,5 @@
+test:
+  adapter: postgresql
+  username: jorge4138
+  password: 1234
+  database: jorgedb
