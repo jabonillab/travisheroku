@@ -6,6 +6,7 @@ from tests.base import BaseTestCase
 from clikpik import Producto
 
 
+
 class TestProductos(BaseTestCase):
 
 
